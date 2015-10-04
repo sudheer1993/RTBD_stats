@@ -1,0 +1,9 @@
+#Sun Oct 04 02:46:58 EDT 2015
+srcTextAnalyticsPath=[P]textAnalytics/src
+general.provenance=true
+pagination.isEnabled=true
+tamTextAnalyticsPath=[P]textAnalytics/bin
+searchPath.dataPath=[W]/mapred
+UseModularAQL=true
+pagination.numFilesPerPage=50
+langWare.tokenizerChoice=1
